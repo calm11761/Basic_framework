@@ -1,0 +1,17 @@
+/* 清除所有默认元素的margin和padding */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+/* 清除所有连接的默认样式 */
+ .contens{
+    // margin-top: 80px;
+      width: 1400px;
+      margin: 0 auto;
+      min-height: 1200px;
+        // background-color: red;
+   }
+
+
