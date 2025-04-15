@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\basisrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\basisrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\basisrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\basisrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\baseservice\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\baseservice\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\baseservice\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\baseservice\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2F1426-CE7F-45C3-A29E-BAF6DDCBE066}|Basis_IService\\Basis_IService.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_iservice\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2F1426-CE7F-45C3-A29E-BAF6DDCBE066}|Basis_IService\\Basis_IService.csproj|solutionrelative:basis_iservice\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2F1426-CE7F-45C3-A29E-BAF6DDCBE066}|Basis_IService\\Basis_IService.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2F1426-CE7F-45C3-A29E-BAF6DDCBE066}|Basis_IService\\Basis_IService.csproj|solutionrelative:basis_iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F298C29C-E603-4C70-A331-ADFE1DD3D7D6}|Basis_Repository\\Basis_Repository.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F298C29C-E603-4C70-A331-ADFE1DD3D7D6}|Basis_Repository\\Basis_Repository.csproj|solutionrelative:basis_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E1C999-41FF-4040-8038-EB7C2C2EE6F6}|Basis_IRepository\\Basis_IRepository.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_irepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E1C999-41FF-4040-8038-EB7C2C2EE6F6}|Basis_IRepository\\Basis_IRepository.csproj|solutionrelative:basis_irepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\webresponsecontent\\webresponsecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\webresponsecontent\\webresponsecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\basesqlsugar\\ibaserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\basesqlsugar\\ibaserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\automaticallycreatedatabasesandtables\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\automaticallycreatedatabasesandtables\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_ common\\automaticallycreatedatabasesandtables\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D53A80-8DFE-4D09-9572-078420F46C03}|Basis_ Common\\Basis_ Common.csproj|solutionrelative:basis_ common\\automaticallycreatedatabasesandtables\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|solutionrelative:basis_service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_service\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|solutionrelative:basis_service\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_model\\forum\\dt_posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|solutionrelative:basis_model\\forum\\dt_posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_model\\models\\janitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|solutionrelative:basis_model\\models\\janitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_model\\models\\dt_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA354D7-6848-49CA-B0C6-AB4B1C554025}|Basis_Model\\Basis_Model.csproj|solutionrelative:basis_model\\models\\dt_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\basis_service\\basis_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9BA16A0-1F9F-406B-9B2E-033740C7DB41}|Basis_Service\\Basis_Service.csproj|solutionrelative:basis_service\\basis_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|e:\\\u9879\u76EE\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DC180FE-59FB-4905-856A-73CB8972BAD9}|NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj|solutionrelative:net6 sqlsugar\u57FA\u7840\u6846\u67B6\\net6 sqlsugar\u57FA\u7840\u6846\u67B6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BasisRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\BasisRepository\\IRepository.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BasisRepository\\IRepository.cs",
+              "RelativeToolTip": "Basis_ Common\\BasisRepository\\IRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:45:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BasisRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\BasisRepository\\Repository.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BasisRepository\\Repository.cs",
+              "RelativeToolTip": "Basis_ Common\\BasisRepository\\Repository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswC8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:43:48.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Basis_Repository\\Class1.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Repository\\Class1.cs",
+              "RelativeToolTip": "Basis_Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:38:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IRepository\\Class1.cs",
+              "RelativeDocumentMoniker": "Basis_IRepository\\Class1.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IRepository\\Class1.cs",
+              "RelativeToolTip": "Basis_IRepository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:37:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseService\\BaseController.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\BaseService\\BaseController.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseService\\BaseController.cs",
+              "RelativeToolTip": "Basis_ Common\\BaseService\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:41:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaserService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseSqlsugar\\IBaserService.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\BaseSqlsugar\\IBaserService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseSqlsugar\\IBaserService.cs",
+              "RelativeToolTip": "Basis_ Common\\BaseSqlsugar\\IBaserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:14:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseService\\BaseService.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\BaseService\\BaseService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\BaseService\\BaseService.cs",
+              "RelativeToolTip": "Basis_ Common\\BaseService\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:46:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostsService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IService\\IPostsService.cs",
+              "RelativeDocumentMoniker": "Basis_IService\\IPostsService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IService\\IPostsService.cs",
+              "RelativeToolTip": "Basis_IService\\IPostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:56:37.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Basis_IService\\IUserService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_IService\\IUserService.cs",
+              "RelativeToolTip": "Basis_IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:36:06.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:33:38.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\DatabaseInitializer.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Basis_ Common\\AutomaticallyCreateDatabasesAndTables\\DatabaseInitializer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:30:58.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebResponseContent.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\WebResponseContent\\WebResponseContent.cs",
+              "RelativeDocumentMoniker": "Basis_ Common\\WebResponseContent\\WebResponseContent.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_ Common\\WebResponseContent\\WebResponseContent.cs",
+              "RelativeToolTip": "Basis_ Common\\WebResponseContent\\WebResponseContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:02:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Program.cs",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Program.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Program.cs",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:53:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:51:55.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Basis_Service\\UserService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\UserService.cs",
+              "RelativeToolTip": "Basis_Service\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:36:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:03:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T07:09:21.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\PostsService.cs",
+              "RelativeDocumentMoniker": "Basis_Service\\PostsService.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\PostsService.cs",
+              "RelativeToolTip": "Basis_Service\\PostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:57:37.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dt_Posts.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Forum\\Dt_Posts.cs",
+              "RelativeDocumentMoniker": "Basis_Model\\Forum\\Dt_Posts.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Forum\\Dt_Posts.cs",
+              "RelativeToolTip": "Basis_Model\\Forum\\Dt_Posts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:14:06.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "janitors.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Models\\janitors.cs",
+              "RelativeDocumentMoniker": "Basis_Model\\Models\\janitors.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Models\\janitors.cs",
+              "RelativeToolTip": "Basis_Model\\Models\\janitors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:23:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dt_User.cs",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Models\\Dt_User.cs",
+              "RelativeDocumentMoniker": "Basis_Model\\Models\\Dt_User.cs",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Model\\Models\\Dt_User.cs",
+              "RelativeToolTip": "Basis_Model\\Models\\Dt_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:20:57.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.Development.json",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.Development.json",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T07:45:29.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Basis_Service.csproj",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\Basis_Service.csproj",
+              "RelativeDocumentMoniker": "Basis_Service\\Basis_Service.csproj",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\Basis_Service\\Basis_Service.csproj",
+              "RelativeToolTip": "Basis_Service\\Basis_Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T07:12:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj",
+              "RelativeDocumentMoniker": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj",
+              "ToolTip": "E:\\\u9879\u76EE\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj",
+              "RelativeToolTip": "NET6 Sqlsugar\u57FA\u7840\u6846\u67B6\\NET6 Sqlsugar\u57FA\u7840\u6846\u67B6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T06:16:46.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

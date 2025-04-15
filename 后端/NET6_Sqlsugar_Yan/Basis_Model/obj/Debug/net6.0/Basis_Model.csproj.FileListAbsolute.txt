@@ -1,0 +1,12 @@
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\bin\Debug\net6.0\Basis_Model.deps.json
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\bin\Debug\net6.0\Basis_Model.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\bin\Debug\net6.0\Basis_Model.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.AssemblyInfoInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.AssemblyInfo.cs
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.csproj.CoreCompileInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\refint\Basis_Model.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\ref\Basis_Model.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Model\obj\Debug\net6.0\Basis_Model.csproj.AssemblyReference.cache

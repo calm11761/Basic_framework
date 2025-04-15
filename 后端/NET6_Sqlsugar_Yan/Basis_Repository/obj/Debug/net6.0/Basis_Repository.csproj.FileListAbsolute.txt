@@ -1,0 +1,11 @@
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\bin\Debug\net6.0\Basis_Repository.deps.json
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\bin\Debug\net6.0\Basis_Repository.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\bin\Debug\net6.0\Basis_Repository.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.AssemblyInfoInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.AssemblyInfo.cs
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.csproj.CoreCompileInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\refint\Basis_Repository.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\ref\Basis_Repository.dll

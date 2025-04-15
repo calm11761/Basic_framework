@@ -1,0 +1,19 @@
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_Service.deps.json
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_Service.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_Service.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_IService.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_IService.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.csproj.AssemblyReference.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.AssemblyInfoInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.AssemblyInfo.cs
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.csproj.CoreCompileInputs.cache
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Se.5E26CE1C.Up2Date
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\refint\Basis_Service.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\Basis_Service.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\obj\Debug\net6.0\ref\Basis_Service.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_Model.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_Model.pdb
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_ Common.dll
+E:\项目\NET6 Sqlsugar基础框架\Basis_Service\bin\Debug\net6.0\Basis_ Common.pdb
