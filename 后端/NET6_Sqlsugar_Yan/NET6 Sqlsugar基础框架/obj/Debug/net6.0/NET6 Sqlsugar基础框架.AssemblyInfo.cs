@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NET6 Sqlsugar基础框架")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ae59f76c1d623e9ea5b31a266b1c69156fc01b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NET6 Sqlsugar基础框架")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NET6 Sqlsugar基础框架")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

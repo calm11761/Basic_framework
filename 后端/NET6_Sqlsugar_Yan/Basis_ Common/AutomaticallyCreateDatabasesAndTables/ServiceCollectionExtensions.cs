@@ -45,7 +45,11 @@ namespace Basis__Common
                 }
             }
 
+
+            // ⭐ 添加泛型仓储注册
+            services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             return services;
+           
         }
     }
 }

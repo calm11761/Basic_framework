@@ -25,8 +25,8 @@ namespace Basis_Model.Models
         [SugarColumn(IsNullable = true, Length = 50, ColumnDescription = "姓名")]
         public string Name { get; set; }
 
-        [SugarColumn(IsNullable = true, Length = 50, ColumnDescription = "年龄")]
-        public int Age { get; set; }
+        [SugarColumn(IsNullable = true, Length = 50, ColumnDescription = "显示名称，可以用于 Token 中")]
+        public string DisplayName { get; set; }
 
 
         [SugarColumn(IsNullable = true, ColumnDescription = "创建时间")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj": {}
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj": {}
   },
   "projects": {
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj": {
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj",
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj",
         "projectName": "Basis_ Common",
-        "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\obj\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,9 +63,25 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "SixLabors.Fonts": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
             "SqlSugarCore": {
               "target": "Package",
               "version": "[5.1.4.188, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [

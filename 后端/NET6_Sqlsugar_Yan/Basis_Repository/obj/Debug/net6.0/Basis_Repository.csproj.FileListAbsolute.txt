@@ -9,3 +9,21 @@ E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repo
 E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\refint\Basis_Repository.dll
 E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\Basis_Repository.pdb
 E:\项目\NET6 Sqlsugar基础框架\Basis_Repository\obj\Debug\net6.0\ref\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_Repository.deps.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_Repository.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.AssemblyInfoInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.AssemblyInfo.cs
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.csproj.CoreCompileInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.sourcelink.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\refint\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\ref\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_ Common.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_Model.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_ Common.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\bin\Debug\net6.0\Basis_Model.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Repository.csproj.AssemblyReference.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_Repository\obj\Debug\net6.0\Basis_Re.E6415407.Up2Date

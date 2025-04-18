@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IRepository\\Basis_IRepository.csproj",
+      "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IRepository\\Basis_IRepository.csproj",
       "projectName": "Basis_IRepository",
-      "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IRepository\\Basis_IRepository.csproj",
+      "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IRepository\\Basis_IRepository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IRepository\\obj\\",
+      "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

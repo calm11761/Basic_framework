@@ -9,3 +9,15 @@ E:\项目\NET6 Sqlsugar基础框架\Basis_IRepository\obj\Debug\net6.0\Basis_IRe
 E:\项目\NET6 Sqlsugar基础框架\Basis_IRepository\obj\Debug\net6.0\refint\Basis_IRepository.dll
 E:\项目\NET6 Sqlsugar基础框架\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.pdb
 E:\项目\NET6 Sqlsugar基础框架\Basis_IRepository\obj\Debug\net6.0\ref\Basis_IRepository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\bin\Debug\net6.0\Basis_IRepository.deps.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\bin\Debug\net6.0\Basis_IRepository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\bin\Debug\net6.0\Basis_IRepository.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.AssemblyInfoInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.AssemblyInfo.cs
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.csproj.CoreCompileInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.sourcelink.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\refint\Basis_IRepository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\Basis_IRepository.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IRepository\obj\Debug\net6.0\ref\Basis_IRepository.dll

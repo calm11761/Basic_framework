@@ -13,6 +13,10 @@ namespace Basis__Common
 {
     public interface IRepository<TEntity> where TEntity : class, new()
     {
+        /// <summary>
+        /// 这个封装的没有使用到，如果你想自己重写封装也是可以的，Repository类库不要进行删除
+        /// Service层进行了项目引用
+        /// </summary>
         ISqlSugarClient Db { get; }
         // 查找方法
         TEntity QueryDataById(object id);

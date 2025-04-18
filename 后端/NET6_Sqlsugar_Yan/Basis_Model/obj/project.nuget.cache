@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcvoFPPnfqc=",
+  "dgSpecHash": "0Tu8wR1WjAM=",
   "success": true,
-  "projectFilePath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj",
+  "projectFilePath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

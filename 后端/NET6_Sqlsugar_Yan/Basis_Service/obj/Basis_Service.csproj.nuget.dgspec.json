@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Service\\Basis_Service.csproj": {}
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Service\\Basis_Service.csproj": {}
   },
   "projects": {
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj": {
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj",
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj",
         "projectName": "Basis_ Common",
-        "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\obj\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,9 +63,25 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "SixLabors.Fonts": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
             "SqlSugarCore": {
               "target": "Package",
               "version": "[5.1.4.188, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -88,14 +104,80 @@
         }
       }
     },
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\Basis_IService.csproj": {
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\Basis_DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\Basis_IService.csproj",
-        "projectName": "Basis_IService",
-        "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\Basis_IService.csproj",
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\Basis_DTO.csproj",
+        "projectName": "Basis_DTO",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\Basis_DTO.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\obj\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://115.159.85.185:8070/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\Basis_IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\Basis_IService.csproj",
+        "projectName": "Basis_IService",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\Basis_IService.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,11 +199,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj": {
-                "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_ Common\\Basis_ Common.csproj"
+              "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\Basis_DTO.csproj": {
+                "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_DTO\\Basis_DTO.csproj"
               },
-              "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj": {
-                "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj"
+              "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\Basis_Repository.csproj": {
+                "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\Basis_Repository.csproj"
               }
             }
           }
@@ -167,14 +249,14 @@
         }
       }
     },
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj": {
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj",
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj",
         "projectName": "Basis_Model",
-        "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\Basis_Model.csproj",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Model\\obj\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,14 +321,14 @@
         }
       }
     },
-    "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Service\\Basis_Service.csproj": {
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\Basis_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Service\\Basis_Service.csproj",
-        "projectName": "Basis_Service",
-        "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Service\\Basis_Service.csproj",
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\Basis_Repository.csproj",
+        "projectName": "Basis_Repository",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\Basis_Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_Service\\obj\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -268,8 +350,81 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\Basis_IService.csproj": {
-                "projectPath": "E:\\项目\\NET6 Sqlsugar基础框架\\Basis_IService\\Basis_IService.csproj"
+              "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj": {
+                "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_ Common\\Basis_ Common.csproj"
+              },
+              "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj": {
+                "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Model\\Basis_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Service\\Basis_Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Service\\Basis_Service.csproj",
+        "projectName": "Basis_Service",
+        "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Service\\Basis_Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://115.159.85.185:8070/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\Basis_IService.csproj": {
+                "projectPath": "E:\\项目\\calm基础框架\\Basic_framework\\后端\\NET6_Sqlsugar_Yan\\Basis_IService\\Basis_IService.csproj"
               }
             }
           }

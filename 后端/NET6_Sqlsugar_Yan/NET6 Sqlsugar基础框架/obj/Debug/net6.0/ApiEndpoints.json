@@ -2,7 +2,7 @@
   {
     "ContainingType": "NET6_Sqlsugar\u57FA\u7840\u6846\u67B6.Controllers.PostsController",
     "Method": "GetAllPosts",
-    "RelativePath": "api/Posts",
+    "RelativePath": "api/Posts/GetAllPosts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "NET6_Sqlsugar\u57FA\u7840\u6846\u67B6.Controllers.UserController",
     "Method": "AddUser",
-    "RelativePath": "User/AddUser/AddUser",
+    "RelativePath": "api/User/AddUser",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -35,7 +35,43 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Basis__Common.WebResponseContent.WebResponseContent",
+        "Type": "Basis__Common.WebResponseContent",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NET6_Sqlsugar\u57FA\u7840\u6846\u67B6.Controllers.UserController",
+    "Method": "GenerateCaptcha",
+    "RelativePath": "api/User/GenerateCaptcha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET6_Sqlsugar\u57FA\u7840\u6846\u67B6.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Basis_DTO.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Basis__Common.WebResponseContent",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -15,3 +15,25 @@ E:\项目\NET6 Sqlsugar基础框架\Basis_IService\bin\Debug\net6.0\Basis_Model.
 E:\项目\NET6 Sqlsugar基础框架\Basis_IService\bin\Debug\net6.0\Basis_ Common.pdb
 E:\项目\NET6 Sqlsugar基础框架\Basis_IService\bin\Debug\net6.0\Basis_Model.pdb
 E:\项目\NET6 Sqlsugar基础框架\Basis_IService\obj\Debug\net6.0\Basis_IS.2F0BC520.Up2Date
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_IService.deps.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_IService.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_IService.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_ Common.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_Model.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_ Common.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_Model.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.csproj.AssemblyReference.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.AssemblyInfoInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.AssemblyInfo.cs
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.csproj.CoreCompileInputs.cache
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.sourcelink.json
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IS.2F0BC520.Up2Date
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\refint\Basis_IService.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\Basis_IService.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\obj\Debug\net6.0\ref\Basis_IService.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_Repository.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_Repository.pdb
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_DTO.dll
+E:\项目\calm基础框架\Basic_framework\后端\NET6_Sqlsugar_Yan\Basis_IService\bin\Debug\net6.0\Basis_DTO.pdb

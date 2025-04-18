@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Basis__Common
 {
-    public class Repository<TEntity> : IRepository<TEntity> where TEntity : class, new()
+    public class BaseRepository<TEntity> : IRepository<TEntity> where TEntity : class, new()
     {
         public ISqlSugarClient Db { get; }
 
-        public Repository(ISqlSugarClient db)
+        public BaseRepository(ISqlSugarClient db)
         {
             Db = db;
         }

@@ -1,4 +1,5 @@
-﻿using Basis_IService;
+﻿using Basis__Common;
+using Basis_IService;
 using Basis_Model.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -6,21 +7,19 @@ using System.Net;
 
 namespace NET6_Sqlsugar基础框架.Controllers
 {
-    [Route("[controller]/[action]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
-    public class PostsController : ControllerBase
+    public class PostsController :BaseController<IPostsService>
     {
-        //这里没有使用BaseController类
-        private readonly IPostsService _postsService;
-        public PostsController(IPostsService postsService)
+        public PostsController(IPostsService postsService):base(postsService) 
         {
-            _postsService = postsService;
+           
         }
 
         [HttpGet]
         public List<Dt_Posts> GetAllPosts()
         {
-            return _postsService.GetAllPosts();
+            return Service.GetAllPosts();
         }
     }
 }

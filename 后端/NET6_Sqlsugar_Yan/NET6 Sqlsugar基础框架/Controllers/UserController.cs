@@ -2,12 +2,20 @@
 using Basis_IService;
 using Basis_Model.Models;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.PixelFormats;
+using SixLabors.ImageSharp.Processing;
+using SixLabors.ImageSharp.Drawing.Processing;
+using SixLabors.Fonts;
+using Basis_DTO;
+using Dm.filter;
+
+
 
 namespace NET6_Sqlsugar基础框架.Controllers
 {
-    [Route("[controller]/[action]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class UserController :BaseController<IUserService>
     {
@@ -17,11 +25,37 @@ namespace NET6_Sqlsugar基础框架.Controllers
                 _postsService = postsService;
         }
 
-        [HttpPost, Route("AddUser"), AllowAnonymous]
+        /// <summary>
+        /// 验证码
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public IActionResult GenerateCaptcha()
+        {
+            //var (imageBytes, code) = Service.GenerateCaptchaImage(4);
+            //HttpContext.Session.SetString("CaptchaCode", code); // 存入 Session
+
+            //return File(imageBytes, "image/png");
+            var (imageBytes, code) = Service.GenerateCaptchaImage();
+            HttpContext.Session.SetString("CaptchaCode", code);
+            return File(imageBytes, "image/png");
+        }
+
+     
+
+        [HttpPost]
+        public async Task<WebResponseContent> Login([FromBody] LoginDto loginDto)
+        {
+            return await Service.Login(loginDto);
+        }
+
+
+        [HttpPost,Authorize]
         public WebResponseContent AddUser([FromBody] Dt_User user)
         {
             return Service.AddUser(user);
         }
+
 
 
     }
