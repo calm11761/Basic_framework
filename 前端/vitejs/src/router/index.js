@@ -10,6 +10,10 @@ routes:[
     path: "/Popupframe",
     component: () => import('../components/Popupframe/index.vue')
   },
+   {
+    path: "/",
+    component: () => import('../components/Login/index.vue')
+  },
  
 ]
 

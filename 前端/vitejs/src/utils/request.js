@@ -3,8 +3,9 @@ import { ElMessage } from "element-plus";
 
 // 创建 axios 实例
 const request = axios.create({
-  baseURL: '/api',  // 统一的基础路径，所有请求都会加上这个前缀
+ baseURL: '/api',  // 统一的基础路径，所有请求都会加上这个前缀
   timeout: 5000,  // 请求超时设置
+  withCredentials: true // 让浏览器请求时自动携带 Cookie（包括 .NET Core 的 ASP.NET_SessionId），让 Session 成功绑定。
 });
 
 // 请求拦截器

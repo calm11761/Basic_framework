@@ -1,5 +1,8 @@
 import { createApp } from 'vue'
-import './style.css'
+//导入自己的默认样式
+ import '../../vitejs/src/style/reset.scss'
+
+
 import App from './App.vue'
 //引入路由
 import router from './router'

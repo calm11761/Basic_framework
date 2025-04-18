@@ -1,7 +1,5 @@
 <template>
      <div class="container" >
-      <div>这是主视图（calm）</div>
-       <!-- 路由视图区域 -->
        <router-view></router-view>  
 </div>  
 </template>
@@ -10,6 +8,10 @@
 
 </script>
 
-<style scoped>
-
+<style lang="scss" scoped>
+.container{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
 </style>
